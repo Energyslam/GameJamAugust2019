@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 91ffa9137caba5641a693f338675e6b5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MaskTex: {fileID: 2800000, guid: 36f2b03ea0c94f749808d8c47ca2bac5, type: 3}
+  - _GrassTex: {fileID: 2800000, guid: a33899e3682dc1a48a64f9ccbabf9fdd, type: 3}
+  - _MarsTex: {fileID: 2800000, guid: a0a2a9dace897b74eacaaf6c996d08f7, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6384f811e8fbd8049941f36a8511b06a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mask1: {fileID: 2800000, guid: 3ae46b2dc00d745489fa3670415ce892, type: 3}
+  - Mask2: {fileID: 2800000, guid: 5af14565e5c593642899c21d57563c34, type: 3}
+  - mat: {fileID: 2100000, guid: cabb8fa8a109f22408f5c6ce41b808a4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
